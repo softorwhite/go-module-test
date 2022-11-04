@@ -2,6 +2,6 @@ package printer
 
 import "fmt"
 
-func Printer(str string) {
+func Print(str string) {
 	fmt.Println(str)
 }
